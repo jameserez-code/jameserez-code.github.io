@@ -1,0 +1,1 @@
+import{n as e,r as t}from"./rolldown-runtime-C60lm6uB.js";import{i as n}from"./framework-D_rUT4EX.js";import{n as r}from"./analytics-C7PAdXnU.js";var i=e({AnalyticsTracker:()=>o}),a=t(n(),1);function o(){return(0,a.useEffect)(()=>r(),[]),null}export{i as n,o as t};

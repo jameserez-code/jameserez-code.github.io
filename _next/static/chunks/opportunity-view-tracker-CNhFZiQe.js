@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-C60lm6uB.js";import{i as t}from"./framework-D_rUT4EX.js";import{i as n}from"./analytics-C7PAdXnU.js";var r=e(t(),1);function i(){return(0,r.useEffect)(()=>n(`opportunity_view`),[]),null}export{i as OpportunityViewTracker};

@@ -1,1 +1,0 @@
-var e=new Map,t=!1;function n(n){if(t)return e.get(n)??null;try{let t=window.localStorage.getItem(n);return t===null?e.delete(n):e.set(n,t),t}catch{return t=!0,e.get(n)??null}}function r(n,r){if(e.set(n,r),!t)try{window.localStorage.setItem(n,r)}catch{t=!0}}function i(){return t}export{n,r,i as t};
